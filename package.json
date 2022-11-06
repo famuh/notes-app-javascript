@@ -1,0 +1,19 @@
+{
+  "name": "notes-app-back-end",
+  "version": "1.0.0",
+  "description": "making notes app using javascript to learn back end using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famuh/notes-app-javascript.git"
+  },
+  "author": "famuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/famuh/notes-app-javascript/issues"
+  },
+  "homepage": "https://github.com/famuh/notes-app-javascript#readme"
+}
