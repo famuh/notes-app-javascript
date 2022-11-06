@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/famuh/notes-app-javascript/issues"
   },
-  "homepage": "https://github.com/famuh/notes-app-javascript#readme"
+  "homepage": "https://github.com/famuh/notes-app-javascript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
